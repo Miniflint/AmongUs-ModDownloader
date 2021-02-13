@@ -1,7 +1,7 @@
 # AmongUs-ModDownloader
 Among us Mod downloader and installer
 
-1. enter a github project : https://github.com/[User-Name]/[project-name]
+1. enter a github project, exemple : https://github.com/[User-Name]/[project-name]
 
 what the code do is :
 1. check at 3 differents folder if "among us" exist
