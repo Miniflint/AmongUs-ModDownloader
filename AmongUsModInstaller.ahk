@@ -124,7 +124,7 @@ Unzip(NothingFoundVar2, lastpart)
         FileAppend, 
         (
             cd C:\Program Files\7-Zip\
-                uninstall.exe
+                uninstall.exe /S
         ), %7zipFolderZIPED%\SilentUninstall.bat
         RunWait %7zipFolderZIPED%\SilentUninstall.bat,, hide
     }
